@@ -1,8 +1,10 @@
 ---
-title: Your Name
+title: Jonathan Seyfried
 layout: base
 date: 2024-12-02
 ---
+
+This is an edit. We are practicing editing the web page.
 
 {% include layout/profile-intro.html %}
 
